@@ -13,6 +13,8 @@ I have instructed several undergraduate courses, taught high school Biology and 
 
 ### <elavoie@ualberta.ca>
 
-### <a href="https://twitter.com/ewenlavoie" class="twitter-follow-button" data-show-count="false">Twitter</a>
+### [Twitter](https://twitter.com/ewenlavoie)
 
-### <a href="https://www.linkedin.com/in/ewenlavoie/" class="twitter-follow-button" data-show-count="false">LinkedIn</a>
+### [LinkedIn](https://www.linkedin.com/in/ewenlavoie/)
+
+### [Google Scholar](https://scholar.google.com/citations?user=2j_adCsAAAAJ&hl=en&authuser=1)
