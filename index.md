@@ -10,7 +10,3 @@ I use visual attention measured via eye movements, and movement fluidity measure
 I have experience using Eye Tracking, Motion Tracking, Virtual and Augmented Reality, Electroencephalography, Electromyography, Galvanic Skin Response, Transcranial Magnetic Stimulation, Transcutaneous Spinal Cord Stimulation, and Transcutaneous Electrical Nerve Stimulation.
 
 I have instructed several undergraduate courses, taught high school Biology and Math for 4 years, and coached elite competitive swimming for over a decade.
-
- <footer class="sticky" style="text-align: center; border-top:none">
-      <a href="https://www.linkedin.com/in/t-riley-dawson"><i style="height:2em; width:2em" data-feather="linkedin"></i></a>  <a href="https://github.com/gnarlywhale/"><i style="height:2em; width:2em" data-feather="github"></i></a>  <a href="https://twitter.com/Gnarlywhale"><i data-feather="twitter" style="height:2em; width:2em"></i></a>
-    </footer>
