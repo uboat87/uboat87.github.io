@@ -1,5 +1,3 @@
-youtubeId: kN1N499hVMg
-
 ![useful image](assets/sc63croppedsmall.jpg)
 
 [CV](https://github.com/uboat87/uboat87.github.io/raw/main/LavoieEwen_CVAcademic_January2021.pdf) [GoogleScholar](https://scholar.google.com/citations?user=2j_adCsAAAAJ&hl=en&authuser=1) [Twitter](https://twitter.com/ewenlavoie) [LinkedIn](https://www.linkedin.com/in/ewenlavoie/) <elavoie@ualberta.ca>
@@ -13,4 +11,6 @@ I have experience using Eye Tracking, Motion Tracking, Virtual and Augmented Rea
 
 I have instructed several undergraduate courses, taught high school Biology and Math for 4 years, and coached elite competitive swimming for over a decade.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.kN1N499hVMg %}
+
+{% include youtubePlayer.html id=page.S1m7Wynosa4 %}
