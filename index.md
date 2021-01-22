@@ -3,13 +3,13 @@
 [CV](https://github.com/uboat87/uboat87.github.io/raw/main/LavoieEwen_CVAcademic_January2021.pdf) [GoogleScholar](https://scholar.google.com/citations?user=2j_adCsAAAAJ&hl=en&authuser=1) [Twitter](https://twitter.com/ewenlavoie) [YouTube](https://www.youtube.com/channel/UCmNJ7oHGtAXiZGy4SLInqwA/videos) [LinkedIn](https://www.linkedin.com/in/ewenlavoie/) <elavoie@ualberta.ca>
 
 # About
-I research embodiment and object interactions in real and virtual worlds.
+Ewen researches embodiment and object interactions in real and virtual worlds.
 
-I use visual attention measured via eye movements, and movement fluidity measured via body movements, to create complex measures of eye, hand, and body coordination.
+Using visual attention measured via eye movements, and movement fluidity measured via body movements, he creates complex measures of eye, hand, and body coordination.
 
-I have experience using Eye Tracking, Motion Tracking, Virtual and Augmented Reality, Electroencephalography, Electromyography, Galvanic Skin Response, Transcranial Magnetic Stimulation, Transcutaneous Spinal Cord Stimulation, and Transcutaneous Electrical Nerve Stimulation.
+Not only is Ewen an expert user of many human experimental tools and techniques (Eye Tracking, Motion Tracking, Virtual and Augmented Reality, Electroencephalography, Electromyography, Galvanic Skin Response, Transcranial Magnetic Stimulation, Transcutaneous Spinal Cord Stimulation, and Transcutaneous Electrical Nerve Stimulation), but he also possesses the statistical knowledge and skillset necessary to analyze large complex datasets, as well as the knowledge to program in several languages (R, Python, Matlab, Unity, C#, C++).
 
-I have instructed several undergraduate courses, taught high school Biology and Math for 4 years, and coached elite competitive swimming for over a decade.
+Ewen instructs several undergraduate courses, volunteers with local, national and international organizations, has taught high school Biology and Math, and coached elite competitive swimming for over a decade.
 
 {% include youtubePlayer.html id="kN1N499hVMg" %}
 
