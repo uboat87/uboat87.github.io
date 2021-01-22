@@ -12,3 +12,5 @@ I have experience using Eye Tracking, Motion Tracking, Virtual and Augmented Rea
 I have instructed several undergraduate courses, taught high school Biology and Math for 4 years, and coached elite competitive swimming for over a decade.
 
 {% include youtubePlayer.html id="kN1N499hVMg" %}
+
+{% include youtubePlayer.html id="kN1N499hVMg" %}
