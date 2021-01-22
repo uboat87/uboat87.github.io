@@ -11,6 +11,6 @@ Not only is Ewen an expert user of many human experimental tools and techniques 
 
 Ewen instructs undergraduate courses, volunteers with local, national and international organizations, has taught high school Biology and Mathematics, and coached elite competitive swimming for over a decade.
 
-{% include youtubePlayer.html id="kN1N499hVMg" %}
+```{% include youtubePlayer.html id="kN1N499hVMg" %}
 
-{% include youtubePlayer.html id="S1m7Wynosa4" %}
+```{% include youtubePlayer.html id="S1m7Wynosa4" %}
