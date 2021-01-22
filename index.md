@@ -9,7 +9,7 @@ Using visual attention measured via eye movements, and movement fluidity measure
 
 Not only is Ewen an expert user of many human experimental tools and techniques (Eye Tracking, Motion Tracking, Virtual and Augmented Reality, Electroencephalography, Electromyography, Galvanic Skin Response, Transcranial Magnetic Stimulation, Transcutaneous Spinal Cord Stimulation, and Transcutaneous Electrical Nerve Stimulation), but he also possesses the statistical knowledge and skillset necessary to analyze large complex datasets, as well as the knowledge to program in several languages (R, Python, Matlab, Unity, C#, C++).
 
-Ewen instructs several undergraduate courses, volunteers with local, national and international organizations, has taught high school Biology and Math, and coached elite competitive swimming for over a decade.
+Ewen instructs undergraduate courses, volunteers with local, national and international organizations, has taught high school Biology and Mathematics, and coached elite competitive swimming for over a decade.
 
 {% include youtubePlayer.html id="kN1N499hVMg" %}
 
