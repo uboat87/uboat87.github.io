@@ -13,5 +13,3 @@ I have instructed several undergraduate courses, taught high school Biology and 
 
 {% include youtubePlayer.html id="kN1N499hVMg" %}
 
-
-{% include youtubePlayer.html id="S1m7Wynosa4" %}
