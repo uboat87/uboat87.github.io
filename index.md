@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/sc63croppedsmall.jpg" width="25%" />
+  <img src="/assets/sc63croppedsmall.jpg" width="35%" />
 </p>
 
 [CV](https://github.com/uboat87/uboat87.github.io/raw/main/LavoieEwen_CVAcademic_January2021.pdf) [GoogleScholar](https://scholar.google.com/citations?user=2j_adCsAAAAJ&hl=en&authuser=1) [Twitter](https://twitter.com/ewenlavoie) [YouTube](https://www.youtube.com/channel/UCmNJ7oHGtAXiZGy4SLInqwA/videos) [LinkedIn](https://www.linkedin.com/in/ewenlavoie/) <elavoie@ualberta.ca>
