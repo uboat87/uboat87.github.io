@@ -8,7 +8,7 @@
 
 {% include linkedinlink.html %}
 
-[CV](https://github.com/uboat87/uboat87.github.io/raw/main/LavoieEwen_CVAcademic_January2021.pdf) [GoogleScholar](https://scholar.google.com/citations?user=2j_adCsAAAAJ&hl=en&authuser=1) [Twitter](https://twitter.com/ewenlavoie) [YouTube](https://www.youtube.com/channel/UCmNJ7oHGtAXiZGy4SLInqwA/videos) [LinkedIn](https://www.linkedin.com/in/ewenlavoie/) <elavoie@ualberta.ca>
+[CV](https://github.com/uboat87/uboat87.github.io/raw/main/LavoieEwen_CVAcademic_January2021.pdf) <elavoie@ualberta.ca>
 
 # About
 Ewen researches embodiment and object interactions in real and virtual worlds.
