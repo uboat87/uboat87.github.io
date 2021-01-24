@@ -10,6 +10,8 @@
 {% include linkedinlink.html %}
 
 {% include emaillink.html %}
+
+{% include cvdownload.html %}
 </p>
 
 [CV](https://github.com/uboat87/uboat87.github.io/raw/main/LavoieEwen_CVAcademic_January2021.pdf) <elavoie@ualberta.ca>
