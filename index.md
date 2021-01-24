@@ -2,11 +2,13 @@
   <img src="/assets/sc63croppedsmall.jpg" width="45%" />
 </p>
 
+<p align="center">
 {% include twitterlink.html %}
 
 {% include googlescholarlink.html %}
 
 {% include linkedinlink.html %}
+</p>
 
 [CV](https://github.com/uboat87/uboat87.github.io/raw/main/LavoieEwen_CVAcademic_January2021.pdf) <elavoie@ualberta.ca>
 
