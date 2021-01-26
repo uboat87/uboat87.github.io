@@ -15,7 +15,7 @@
 </p>
 
 # About
-Ewen is a PhD Candidate currently researching embodiment and object interactions in real and virtual worlds. Using visual attention measured via eye movements, and movement fluidity measured via body movements, he creates complex measures of eye, hand, and body coordination. He holds Bachelor's degrees in Biology and Education, and a Master's degree in Neuroscience and Movement.
+Ewen is a PhD Candidate researching embodiment and object interactions in real and virtual worlds. Using visual attention measured via eye movements, and movement fluidity measured via body movements, he creates complex measures of eye, hand, and body coordination. He holds Bachelor's degrees in Biology and Education, and a Master's degree in Neuroscience and Movement.
 
 Not only an expert user of many human experimental tools and techniques (Eye Tracking, Motion Tracking, Virtual and Augmented Reality, Electroencephalography, Electromyography, Galvanic Skin Response, Transcranial Magnetic Stimulation, Transcutaneous Spinal Cord Stimulation, and Transcutaneous Electrical Nerve Stimulation), Ewen also possesses the statistical knowledge to analyze large complex datasets, as well as the skills to program in several languages (R, Matlab, Unity, C#, C++, Python).
 
