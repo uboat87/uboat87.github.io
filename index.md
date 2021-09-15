@@ -21,7 +21,7 @@ Not only an expert user of many human experimental tools and techniques (Eye Tra
 
 Ewen has published scholarly articles in prestigious journals including the Journal of the American Medical Association Network Open, the Journal of Vision, Comparative Cognition and Behavior Reviews, and the Neuroscience of Consciousness. He has received hundreds of thousands of dollars in grants and scholarships, has presented at dozens of national and international conferences winning awards for his work, and has penned popular science articles about human behaviour, virtual reality, and the future of technology on the human experience.
 
-Ewen has instructs undergraduate courses, and volunteers with local, national and international organizations teaching brain injury prevention strategies, promoting viewpoint diversity, and communicating strategies for better social media practices. Ewen taught high school Biology and Mathematics for several years, and coached elite youth and university competitive swimming for over a decade.
+Ewen instructs undergraduate courses, and volunteers with local, national and international organizations teaching brain injury prevention strategies, promoting viewpoint diversity, and communicating strategies for better social media practices. Ewen taught high school Biology and Mathematics for several years, and coached elite youth and university competitive swimming for over a decade.
 
 {% include youtubePlayer.html id="kN1N499hVMg" %}
 
