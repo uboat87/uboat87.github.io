@@ -23,6 +23,8 @@ Ewen has published scholarly articles in prestigious journals including the Jour
 
 Ewen instructs undergraduate courses, and volunteers with local, national and international organizations teaching brain injury prevention strategies, promoting viewpoint diversity, and communicating strategies for better social media practices. Ewen taught high school Biology and Mathematics for several years, and coached elite youth and university competitive swimming for over a decade.
 
+{% include youtubePlayer.html id="80BA3P1c_9k" %}
+
 {% include youtubePlayer.html id="kN1N499hVMg" %}
 
 {% include youtubePlayer.html id="S1m7Wynosa4" %}
